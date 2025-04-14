@@ -25,8 +25,8 @@ openGraph:
   title: Project Lighthouse
   type: website
   description: Homepage for the Project Lighthouse light art installation at Kiel University CAU.
-  image: images/author/john.png
-  url: https://hugo-toha.github.io
+  image: "images/site/main-logo.png"
+  url: https://projectlighthousecau.github.io/homepage/index.html
 
 # specify the title appearing on the navbar.
 navBarTitle: "Project Lighthouse"
